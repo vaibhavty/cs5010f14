@@ -4,4 +4,5 @@ DATE(MM/DD/YYYY)	START		STOP		QUESTION 	TIME ON TASK		COMMENT
 09/06/2014		00:10		00:15				5			design and Commit for q1	
 09/06/2014	        00:15           00:20  				5			design and commit for q2
 09/06/2014              12:50		12:55				5			design and commit for q3
-09/06/2014		12:55		12:58				3			design and commit for q4 and notepad edit	
+09/06/2014		12:55		12:58				3			design and commit for q4 and notepad edit
+09/06/2014		12:58		01:02				4			design and commit for q5 and nitepad edit	
